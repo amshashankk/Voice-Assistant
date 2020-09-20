@@ -2,3 +2,4 @@
 
 * This is a sample voice assiatant program which is in under construction.
 
+* **Tech Stack:** Python

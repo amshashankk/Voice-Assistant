@@ -1,4 +1,4 @@
-# Voice-Assistant-using-Python
+# Voice-Assistant
 
-This is a simple voice based text to speech recognition. 
-Created in Python.
+* This is a sample voice assiatant program which is in under construction.
+
